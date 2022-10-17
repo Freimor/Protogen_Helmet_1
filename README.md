@@ -1,7 +1,8 @@
 ## Protogen Helmet for Wolfy
-<img src="https://user-images.githubusercontent.com/21167984/196178184-4e6acc0e-b9c7-4cb7-bc0d-e761cb268f9f.png" width="500">
+<img src="https://user-images.githubusercontent.com/21167984/196218090-b9de949f-3eac-4c79-94ed-70f5aa4c8bcc.png" width="500">
 My first try to make protogen helmet. This design referenced to Kaiborg Studios LED helmet, but only conceptually. Overall design - 3d model of helmet, visor vacuum forming, PCB design - completely new. 
 
+<img src="https://user-images.githubusercontent.com/21167984/196178184-4e6acc0e-b9c7-4cb7-bc0d-e761cb268f9f.png" width="500">
 <img src="https://user-images.githubusercontent.com/21167984/196178197-e37d07f1-d4d0-4249-b54b-4c508cb05955.png" width="500">
 
 *what PCB contained, other electronics used*
