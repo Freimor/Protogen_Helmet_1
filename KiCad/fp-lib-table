@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Protogen_PCB")(type "KiCad")(uri "${KIPRJMOD}/Protogen_PCB.pretty")(options "")(descr ""))
+  (lib (name "NewYear2022")(type "KiCad")(uri "C:/Users/Pavel/OneDrive/21schoolclub/21 Projects/PIN_NewYear2022/NewYear2022.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
